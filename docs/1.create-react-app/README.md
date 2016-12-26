@@ -314,7 +314,7 @@ JSXを使用するかどうかは開発者によって決めることができ�
 まだ中身は実装せず、仮の文字列が表示されるようにしておきます。
 
 ```javascript
-// ./src/TodoList.js
+// ./src/TodoForm.js
 import React, { Component } from 'react';
 
 class TodoForm extends Component {
@@ -489,7 +489,7 @@ class TodoApp extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      todo: [],
+      todos: [],
     };
   }
 
@@ -521,7 +521,7 @@ class TodoApp extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      todo: [],
+      todos: [],
     };
   }
 
