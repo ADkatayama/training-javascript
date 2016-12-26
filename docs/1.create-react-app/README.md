@@ -92,7 +92,7 @@ create-react-appのインストール
 $ npm install -g create-react-app
 
 # yarn
-$ yarn globall add create-react-app
+$ yarn global add create-react-app
 ```
 
 create-react-appを使ってサンプル雛形の作成
