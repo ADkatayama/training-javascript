@@ -10,7 +10,7 @@ adish社内JavaScript研修用資料。
 
 # 目次
 
-- 番外編：[とりあえず、Reactを使ってコードを書いてみよう（create-react-app）](/docs/1.create-react-app)
+- 番外編：[とりあえず、Reactを使ってコードを書いてみよう（create-react-app）](/docs/1.create-react-app/README.md)
 - 第1章: ESNextとWebpack（予定）
 - 第2章: Reactを使ったTODOアプリ（予定）
 - 第3章: Flaxを学ぶ（予定）
